@@ -13,7 +13,7 @@ app.use((err, req, res, next) => {
 
 // Define routes
 app.get('/', (req, res) => {
-    res.send('Hello Dockers');
+    res.send('Hello CI/CD workflow');
 });
 
 // Start the server
