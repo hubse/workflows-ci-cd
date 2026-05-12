@@ -46,6 +46,3 @@ This is a simple Node.js application that returns a "Hello Dockers" message. It 
       docker-compose up
    ```
 4. **Access the application**: Open your browser and navigate to `http://localhost:3000` to see the message.
-
-## License
-This project is licensed under the MIT License.
