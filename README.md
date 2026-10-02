@@ -1,7 +1,7 @@
 # Hello Docker App
 
 ## Description
-This is a simple Node.js application that returns a "Hello Dockers" message. It demonstrates how to create a basic RESTful API using Node.js and Express, and how to containerize the application using Docker.
+A simple Node.js application to create a basic RESTful API and containerize the application using Docker.
 
 ## Features
 - Simple GET API endpoint that returns a greeting message.
